@@ -1,0 +1,67 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comedy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "970d068d-87ec-4597-129e-2f61cf363fc3",
+  "instructors": {
+    "content": [
+      "5f6c46ac-e1dc-abd2-bbd5-9260e3cb4191"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "be014ea0-f901-e5b1-c594-6d1c6441b930",
+    "website": "21l-021-comedy-spring-2016"
+  },
+  "course_title": "Comedy",
+  "course_description": "This course is designed around analyzing what\u2019s so funny and why is it that we laugh when we do. How is comedy characterized on the fictional page, the screen, and the stage? And what might the comic teach us about the self and culture(s), especially when we come to understand its patterns of transgression as confounding social norms through jokes and laughter? Tracking a history of comedy, beginning with the first Greek humorists, Aristophanes and Plautus, we will traverse genres, periods and cultures to reflect on various types of humor: satire, farce, slapstick, love, tragedy, parody, and screwball.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.021",
+  "course_image_thumbnail": {
+    "content": "1e2ea9c6-b612-96b2-a756-a9602d8a9ab9",
+    "website": "21l-021-comedy-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "1cfd2e7e-0d73-4664-9496-c9222f2cbdbf",
+  "site_short_id": "21l.021-spring-2016",
+  "site_url_path": "courses/21l-021-comedy-spring-2016",
+  "title": "Course Metadata"
+}
