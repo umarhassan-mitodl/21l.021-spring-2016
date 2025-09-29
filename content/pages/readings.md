@@ -32,15 +32,15 @@ Harris, Joseph. *Rewriting: How To Do Things With Texts.* Utah State University 
 
 ## Films
 
-{{% resource_link "3b873eea-ac4e-473e-ae3e-979b30e9ca85" "*Chi-Raq*" %}}*.* 2015.
+[*Chi-Raq*](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1)*.* 2015.
 
-{{% resource_link "c8c829db-5ded-45d4-90dd-cb0fe706a87a" "*To Wong Foo, Thanks for Everything! Julie Newmar*" %}}*.* 1995.
+[*To Wong Foo, Thanks for Everything! Julie Newmar*](http://www.imdb.com/title/tt0114682/?ref_=nv_sr_1)*.* 1995.
 
-{{% resource_link "a8c5d0f5-45f8-4ff5-b6b2-5860f22d2dbe" "*Ghetto Klown*" %}}*.* 2014.
+[*Ghetto Klown*](http://www.imdb.com/title/tt3598178/)*.* 2014.
 
 ## Performance
 
-Performance by NYC Drag Queen Miss Shuga Cain, entitled *She’s the Man: A Drag Queen Performance* (MIT's {{% resource_link "94322d92-87b1-44fe-8503-b99654ef248a" "De Florez Fund for Humor" %}})
+Performance by NYC Drag Queen Miss Shuga Cain, entitled *She’s the Man: A Drag Queen Performance* (MIT's [De Florez Fund for Humor](https://shass.mit.edu/inside/resources/internal/deflorez))
 
 SES #
 
@@ -56,7 +56,7 @@ General introduction; basic vocabulary; course structure
 
 No assigned readings.
 
-Watch: {{% resource_link "3b873eea-ac4e-473e-ae3e-979b30e9ca85" "Chi-Raq" %}}.
+Watch: [Chi-Raq](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1).
 
 **Week 2: Old Comedy**
 
@@ -102,7 +102,7 @@ Harris, Joseph. "Introduction" and "Chapter 1: Coming to Terms." In  *Rewriting
 
 *Twelfth Night*
 
-Shakespeare, William. {{% resource_link "20c3cb49-5572-4317-aa4c-ef30724c2d84" "*The Twelfth Night*" %}}*.*
+Shakespeare, William. [*The Twelfth Night*](http://shakespeare.mit.edu/twelfth_night/full.html)*.*
 
 **Week 5: Spanish Classics**
 
@@ -194,7 +194,7 @@ Fey, Tina. *Bossypants*. Little Brown, 2011, pp. 3–10. ISBN: 9780316056861.
 
 Tina Fey & David Sedaris
 
-"{{% resource_link "23f7b4c9-d438-49db-92c2-c3093dc15348" "Act One: Papa Was Not a Rolling Stone" %}}." 104: Music Lessons. *This American Life*, June 5, 1998.
+"[Act One: Papa Was Not a Rolling Stone](https://www.thisamericanlife.org/radio-archives/episode/104/music-lessons?act=1)." 104: Music Lessons. *This American Life*, June 5, 1998.
 
 **Week 12: Graphic Novels**
 

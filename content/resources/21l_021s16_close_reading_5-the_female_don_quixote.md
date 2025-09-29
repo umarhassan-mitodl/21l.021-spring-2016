@@ -4,6 +4,8 @@ description: Close Reading 5-The Female Don Quixote
 file: /courses/21l-021-comedy-spring-2016/163bc006014b55cd2ac5a1c2cd8351bf_21L_021s16_Close_Reading_5-The_Female_Don_Quixote.pdf
 file_size: 171202
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
