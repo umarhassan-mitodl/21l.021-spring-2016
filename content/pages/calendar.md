@@ -115,7 +115,7 @@ Draft of Essay 3 due Session 22
 
 24-25
 
-Watch: [*To Wong Foo, Thanks for Everything! Julie Newmar*](https://www.imdb.com/title/tt0114682/?ref_=nv_sr_1); Alison Bechdel, *Fun Home*
+Watch: {{% resource_link "b7d47ed2-de19-4573-9a16-1a7c979a306c" "*To Wong Foo, Thanks for Everything! Julie Newmar*" %}}; Alison Bechdel, *Fun Home*
 
 Close Reading 9 due Session 24
 
@@ -123,7 +123,7 @@ Close Reading 9 due Session 24
 
 26-27
 
-Event: "*She's the Man: A Drag Queen Performance*" by Miss Shuga Cain. Funded by MIT's [De Florez Fund for Humor](https://shass.mit.edu/inside/resources/internal/deflorez).
+Event: "*She's the Man: A Drag Queen Performance*" by Miss Shuga Cain. Funded by MIT's {{% resource_link "a8539600-94c3-499a-a049-524a04c9a14e" "De Florez Fund for Humor" %}}.
 
 Close Reading 10 due Session 26
 

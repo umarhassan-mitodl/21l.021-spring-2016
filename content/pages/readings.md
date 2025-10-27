@@ -32,15 +32,15 @@ Harris, Joseph. *Rewriting: How To Do Things With Texts.* Utah State University 
 
 ## Films
 
-[*Chi-Raq*](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1)*.* 2015.
+{{% resource_link "ff6fdd18-9189-46c9-82e2-55689fe8ac1f" "*Chi-Raq*" %}}*.* 2015.
 
-[*To Wong Foo, Thanks for Everything! Julie Newmar*](http://www.imdb.com/title/tt0114682/?ref_=nv_sr_1)*.* 1995.
+{{% resource_link "8230800b-48d4-4ec5-984b-4ba184c28e76" "*To Wong Foo, Thanks for Everything! Julie Newmar*" %}}*.* 1995.
 
-[*Ghetto Klown*](http://www.imdb.com/title/tt3598178/)*.* 2014.
+{{% resource_link "b5ef3384-edf9-40df-b4ae-0405d3c456cf" "*Ghetto Klown*" %}}*.* 2014.
 
 ## Performance
 
-Performance by NYC Drag Queen Miss Shuga Cain, entitled *She’s the Man: A Drag Queen Performance* (MIT's [De Florez Fund for Humor](https://shass.mit.edu/inside/resources/internal/deflorez))
+Performance by NYC Drag Queen Miss Shuga Cain, entitled *She’s the Man: A Drag Queen Performance* (MIT's {{% resource_link "a8539600-94c3-499a-a049-524a04c9a14e" "De Florez Fund for Humor" %}})
 
 SES #
 
@@ -56,7 +56,7 @@ General introduction; basic vocabulary; course structure
 
 No assigned readings.
 
-Watch: [Chi-Raq](http://www.imdb.com/title/tt4594834/?ref_=nv_sr_1).
+Watch: {{% resource_link "ff6fdd18-9189-46c9-82e2-55689fe8ac1f" "Chi-Raq" %}}.
 
 **Week 2: Old Comedy**
 
@@ -102,7 +102,7 @@ Harris, Joseph. "Introduction" and "Chapter 1: Coming to Terms." In  *Rewriting
 
 *Twelfth Night*
 
-Shakespeare, William. [*The Twelfth Night*](http://shakespeare.mit.edu/twelfth_night/full.html)*.*
+Shakespeare, William. {{% resource_link "afeb8abc-9467-4eab-9283-c334b85a256c" "*The Twelfth Night*" %}}*.*
 
 **Week 5: Spanish Classics**
 
@@ -194,7 +194,7 @@ Fey, Tina. *Bossypants*. Little Brown, 2011, pp. 3–10. ISBN: 9780316056861.
 
 Tina Fey & David Sedaris
 
-"[Act One: Papa Was Not a Rolling Stone](https://www.thisamericanlife.org/radio-archives/episode/104/music-lessons?act=1)." 104: Music Lessons. *This American Life*, June 5, 1998.
+"{{% resource_link "5b5719f5-068c-434c-b7ee-b41745251286" "Act One: Papa Was Not a Rolling Stone" %}}." 104: Music Lessons. *This American Life*, June 5, 1998.
 
 **Week 12: Graphic Novels**
 
